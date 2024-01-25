@@ -5,7 +5,7 @@ FACTOR = 1.609344  #this is the factor
                    #to calculate kilometers from miles
 
 ### Variables
-miles = 500
+miles = int(input("Enter miles value: "))
 miles_2 = 600
 
 ### code
